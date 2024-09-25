@@ -32,6 +32,16 @@
 - Build Movie List
 - TMDB Image CDN URL
 - usePopularMovies Custom hook
+- GPT Search Page
+- GPT Search Bar
+- Multi-language Feature in our App
+- Get Open AI Api Key
+- Gpt Search API Call
+- fetched gptMovieSuggestions from TMDB
+- created gptSlice added Data
+- Reused Movie List Component to make movie Suggestion container
+- Memoization
+- Added .env file
 
 
 # Features
